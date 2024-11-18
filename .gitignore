@@ -1,0 +1,29 @@
+# Dependencies
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+
+# Build output
+build/
+dist/
+
+# Sass cache
+.sass-cache/
+
+# Gulp temporary files
+gulpfile.js.map
+
+# Environment variables
+.env
+
+# Editor settings
+.idea/
+.vscode/
+
+# macOS files
+.DS_Store
+
+# OS trash
+$RECYCLE.BIN/
